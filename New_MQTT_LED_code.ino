@@ -4,8 +4,8 @@
 #include <MPU6050.h>
 
 // home credentials
-//const char* ssid = "slt";           
-//const char* password = "377@RuAs";
+//const char* ssid = "slt_filber";           
+//const char* password = "########";
 
 // My Ohne credentials
 const char* ssid = "Note8";           
